@@ -1,6 +1,7 @@
 # 🤖 Club de Robótica UNaB
 Espacio educativo de la Universidad Nacional Guillermo Brown, pensado para jóvenes de 15 a 18 años
 que quieran iniciarse en programación, electrónica y robótica.
+
 ![Image](https://github.com/user-attachments/assets/1ca56492-ffa9-4443-bb0d-3ca5c8dabce9)
 
 ## 🧠 ¿Qué hacemos?
